@@ -315,5 +315,5 @@ Este DDL me da error al ejecutarlo. También quiero saber si el diseño está bi
 ## Salida de mensaje utilizando Google AI Studio:
 
 ![Imagen1](https://i.ibb.co/ZRbDfk2n/Captura-desde-2026-02-18-20-22-02.png)
-![Imagen2](hhttps://i.ibb.co/mmDqGRN/Captura-desde-2026-02-18-20-22-07.png)
+![Imagen2](https://i.ibb.co/mmDqGRN/Captura-desde-2026-02-18-20-22-07.png)
 ![Imagen3](https://i.ibb.co/cSzyn1Sm/Captura-desde-2026-02-18-20-22-10.png)
