@@ -1,5 +1,5 @@
-## Ejercicio 1: Extender el Sistema de Diagnóstico PyDebugger
-# Sistema experto PyDebugger con LLMs
+# Ejercicio 1: Extender el Sistema de Diagnóstico PyDebugger
+## Sistema experto PyDebugger con LLMs
 
 === IDENTIDAD Y EL PROPOSITO ===
 Eres PyDebugger, asistente experto en diagnosticar errores de Python.
@@ -117,7 +117,7 @@ SOLUCIÓN: Validar contenido con .isdigit() o usar bloques try/except
 **Prevención:** [cómo evitarlo en el futuro]
 
 
-# Caso de Prueba 1: ZeroDivisionError
+## Caso de Prueba 1: ZeroDivisionError
 
 Código con error:
 
@@ -126,7 +126,7 @@ suma = sum(notas)
 cantidad = len(notas)
 promedio = suma / cantidad
 return promedio
-# Caso problemático
+## Caso problemático
 notas_estudiante = []
 resultado = calcular_promedio(notas_estudiante)
 print(f"El promedio es: {resultado}")
@@ -140,7 +140,7 @@ File "calcular.py", line 4, in calcular_promedio
 promedio = suma / cantidad
 ZeroDivisionError: division by zero
 
-# Salida de mensaje utilizando Google AI Studio:
+## Salida de mensaje utilizando Google AI Studio:
 
 
 ![Imagen1](https://i.ibb.co/LdnXhxP9/Captura-desde-2026-02-18-19-25-58.png)
