@@ -143,8 +143,7 @@ ZeroDivisionError: division by zero
 # Salida de mensaje utilizando Google AI Studio:
 
 
-![Imagen1](https://ibb.co/ZzWp1BJc)
-![Imagen2](https://ibb.co/F446mdMz)
-![Imagen3](https://ibb.co/7xkrzy39)
-
+![Imagen1](https://i.ibb.co/LdnXhxP9/Captura-desde-2026-02-18-19-25-58.png)
+![Imagen2](https://i.ibb.co/9HHncdLW/Captura-desde-2026-02-18-19-25-55.png)
+![Imagen3](https://i.ibb.co/qLJmn1HZ/Captura-desde-2026-02-18-19-25-47.png)
 
