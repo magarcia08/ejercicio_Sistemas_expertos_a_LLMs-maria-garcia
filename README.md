@@ -154,7 +154,7 @@ def leer_configuracion():
 with open("config.txt", "r") as archivo:
 contenido = archivo.read()
 return contenido
-# El archivo config.txt no existe en el directorio
+## El archivo config.txt no existe en el directorio
 configuracion = leer_configuracion()
 print(configuracion)
 
@@ -169,7 +169,11 @@ with open("config.txt", "r") as archivo:
 FileNotFoundError: [Errno 2] No such file or directory: 'config.txt'
 
 
+## Salida de mensaje utilizando Google AI Studio:
 
 ![Imagen1](https://i.ibb.co/V0wyxDg2/Captura-desde-2026-02-18-19-52-21.png)
 ![Imagen2](https://i.ibb.co/fY89MSgr/Captura-desde-2026-02-18-19-52-28.png)
 ![Imagen3](https://i.ibb.co/nsgzGpCV/Captura-desde-2026-02-18-19-52-33.png)
+
+
+# Ejercicio 2: Crear Tu Propio Sistema Experto para SQL DDL
